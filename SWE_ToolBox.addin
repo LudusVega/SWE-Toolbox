@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Text>SWE ToolBox</Text>
+		<Description>"A Collection of Engineering Tools from SWE"</Description>
+		<Assembly>C:\ProgramData\Autodesk\Revit\Addins\2021\SWEToolBox\SWE Toolbox.dll</Assembly>
+		<FullClassName>SWE_Toolbox.Main</FullClassName>
+		<ClientId>2e4f239c-5d1c-438e-b408-ee0c8d0102ed</ClientId>
+		<VendorId>JMS</VendorId>
+		<VendorDescription>Jon Snyder, jsnyder@sytemswestengineers.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>
